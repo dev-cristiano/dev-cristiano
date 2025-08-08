@@ -1,6 +1,3 @@
-[![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=github&logoColor=white)](README.md)
-[![Portuguese](https://img.shields.io/badge/Portuguese-4CAF50?style=for-the-badge&logo=github&logoColor=white)](README_pt.md)
-
 # 💻 Welcome to My Code Universe
 
 Hi there! I'm **Cristiano Moreira**, a passionate **Backend Developer** specialized in building high-performance and scalable web applications.  
