@@ -50,20 +50,10 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 ---
 
 ## 🎯 Current Projects
-- 🔭 Currently working on: **Your project here**
-- 🌱 Learning: **Next.js and GraphQL**
-- 👯 Open to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Laravel, PHP, PostgreSQL**
-- ⚡ Fun fact: **Coding feels like the closest thing to magic ✨**
-
----
-
-## 🎵 Current Mood
-<div align="center">
-  
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify-playing)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
+- 🔭 Currently working on: **Barbershop Management System**
+- 🌱 Continuously learning: **N8N, Artificial Intelligence, and Deepening my Laravel expertise**
+- 👯 Open to collaborating on: **Open source projects**
+- ⚡ Fun fact: **I believe coding is the closest thing to real magic ✨**
 
 ---
 
