@@ -7,14 +7,6 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ---
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-cristiano&show_icons=true&theme=radical&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristiano&layout=compact&theme=radical&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d1117" height="180px" />
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-cristiano&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
