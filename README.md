@@ -43,7 +43,7 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ## 🎯 Current Projects
 - 🔭 Currently working on: **Barbershop Management System**
-- 🌱 Continuously learning: **N8N, Artificial Intelligence, and Deepening my Laravel expertise**
+- 🌱 Continuously learning: **Deepening my Laravel expertise**
 - 👯 Open to collaborating on: **Open source projects**
 - ⚡ Fun fact: **I believe coding is the closest thing to real magic ✨**
 
@@ -52,10 +52,9 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 ## 🤝 Let's Connect!
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/criistiano_mor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-moreira-de-assis-27b264223/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/tx369c)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991041247?text=Ol%C3%A1.%20Vim%20pelo%20Linkedin%20e%2C%20gostaria%20de%20saber%20mais%20sobre%20seus%20projetos%20e%20servi%C3%A7os.)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:criistiano.dev@gmail.com)
   
 </div>
 
