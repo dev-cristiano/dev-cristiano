@@ -1,4 +1,4 @@
-# 💻 Welcome to My Code Universe
+# Welcome to My Code Universe
 
 Hi there! I'm **Cristiano Moreira**, a passionate **Backend Developer** specialized in building high-performance and scalable web applications.  
 I love crafting clean, maintainable code and turning ideas into digital reality. 🚀  
@@ -7,14 +7,14 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-cristiano&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=const+cristiano+%3D+%7B;location%3A+'Brazil+%F0%9F%87%A7%F0%9F%87%B7'%2C;currentFocus%3A+'Building+amazing+web+experiences'%2C;askMeAbout%3A+%5B'Web+Development'%5D%2C;technologies%3A+%7BfrontEnd%3A+%5B'JavaScript'%2C+'HTML5'%2C+'CSS3'%2C+'Livewire'%5D%2C;backEnd%3A+%5B'PHP'%2C+'Laravel'%2C+'PostgreSQL'%2C+'MySQL'%5D%2C;tools%3A+%5B'Git'%2C+'Docker'%5D%2C;currentlyLearning%3A+%5B'Next.js'%2C+'GraphQL'%2C+'AWS'%5D%7D%2C;funFact%3A+'I+debug+with+console.log()+and+I'm+not+ashamed!+%F0%9F%98%85'%7D)](https://git.io/typing-svg)
@@ -23,7 +23,7 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -41,7 +41,7 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ---
 
-## 🎯 Current Projects
+## Current Projects
 - 🔭 Currently working on: **Barbershop Management System**
 - 🌱 Continuously learning: **Deepening my Laravel expertise**
 - 👯 Open to collaborating on: **Open source projects**
@@ -49,7 +49,7 @@ I love crafting clean, maintainable code and turning ideas into digital reality.
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-moreira-de-assis-27b264223/)
